@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JoseVictor_rm95663" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Definindo as cores personalizadas -->
+        <item name="colorPrimary">@color/indigo_light</item>
+        <item name="colorPrimaryVariant">@color/indigo_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/coral_light</item>
+        <item name="colorSecondaryVariant">@color/coral_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:statusBarColor">@color/indigo_dark</item>
+    </style>
+
+</resources>
